@@ -1,0 +1,5 @@
+[
+  { "id": 1, "title": "React Basics", "price": 49 },
+  { "id": 2, "title": "Advanced JavaScript", "price": 59 },
+  { "id": 3, "title": "UI/UX Design", "price": 39 }
+]
