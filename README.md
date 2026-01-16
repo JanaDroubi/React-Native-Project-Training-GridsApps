@@ -1,5 +1,4 @@
 
-
 # 🚀 EduSphere — Modern EdTech / SaaS Platform
 
 ![React](https://img.shields.io/badge/React-18-blue?logo=react\&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-5.4.21-green?logo=vite\&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-3.3.3-blue?logo=tailwindcss\&logoColor=white) ![License](https://img.shields.io/badge/License-MIT-lightgrey)
@@ -102,15 +101,6 @@ npm run dev
 
 Open in browser: `http://localhost:5173/`
 
----
-
-## 📸 Screenshots
-
-![Home Page](./screenshots/home.png)
-![Courses Page](./screenshots/courses.png)
-![Dashboard Lite](./screenshots/dashboard.png)
-
-> Replace the placeholders with actual screenshots for best effect.
 
 ---
 
